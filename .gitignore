@@ -1,0 +1,20 @@
+# Godot 4 Cache & Build-Ausgaben
+.godot/
+build/
+
+# Exportierte Pakete & Keystores
+*.apk
+*.apk.idsig
+*.aab
+*.ipa
+*.keystore
+*.jks
+
+# Blender-Sicherungsdateien & Test-Artefakte
+*.blend1
+tests/qr_test.png
+tests/qr_test.png.import
+
+# Betriebssystem / Editor
+.DS_Store
+Thumbs.db
